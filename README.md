@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akansha</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
-<img  align="right"  alt=""  src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  style="width:300px">
+<img align="right" alt="" src="https://github.com/user-attachments/assets/6c7e5b2a-5ff4-43cc-89e8-7618b94eb649" style="width:300px">
 
 <p align="left"> <img src="![image](https://github.com/user-attachments/assets/20354bce-0a30-4e50-bf2f-a0d3e6293512)
 " /> </p>
