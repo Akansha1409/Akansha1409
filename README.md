@@ -11,13 +11,13 @@
   
 - 🤝 I'm in search of **real-world opportunities, where I can apply my skills, while also acquiring new ones.**
 
-- My MERN Stack Project [Password Manager](https://pass-mongo.vercel.app/)
+- My MERN Stack Project [Password Manager](https://passop-git-main-akanshas-projects-76a6fd7b.vercel.app/)
 
-- My Frontend Project [WeatherApp](https://rock-paper-scissor-two-xi.vercel.app/)
+- My Frontend Project [WeatherApp](https://weather-app-p4vz-git-main-akanshas-projects-76a6fd7b.vercel.app/)
   
-- My Backend Project [RealTime Tracker](https://rock-paper-scissor-two-xi.vercel.app/)
+- My Backend Project [RealTime Tracker](https://tracker-tzl5.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-delta-eosin-89.vercel.app/](https://portfolio-delta-eosin-89.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://portfolio-delta-eosin-89.vercel.app/](https://portfolio-git-main-akanshas-projects-76a6fd7b.vercel.app/))
 
 - 💬 Ask me about **ReactJS , Java , Tailwind CSS,Node.js, Express, MongoDB, Socket.io,Data Structures & Algorithms**
 
