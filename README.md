@@ -7,25 +7,24 @@
 <p align="left"> <img src="![image](https://github.com/user-attachments/assets/20354bce-0a30-4e50-bf2f-a0d3e6293512)
 " /> </p>
 
-- 🔭 Presently engaged in the development of multiple **MERN stack projects.** 
+-🔭 Currently working on various **MERN stack projects** to deepen my expertise.
 
-- 🌱 I’m currently learning **Socket.io, Java Spring Boot**
+-🚀 Learning backend technologies like Socket.io, Spring Boot, and more!
   
-- 🤝 I'm in search of **real-world opportunities, where I can apply my skills, while also acquiring new ones.**
-
-- My MERN Stack Project [Password Manager](https://passop-git-main-akanshas-projects-76a6fd7b.vercel.app/)
-
-- My Frontend Project [WeatherApp](https://weather-app-p4vz-git-main-akanshas-projects-76a6fd7b.vercel.app/)
-  
-- My Backend Project [RealTime Tracker](https://tracker-tzl5.onrender.com/)
+- 🤝 Actively seeking **real-world opportunities to apply my skills and continue learning.**
 
 - 👨‍💻 All of my projects are available at ([https://portfolio-delta-eosin-89.vercel.app/](https://portfolio-git-main-akanshas-projects-76a6fd7b.vercel.app/))
+- 
+- 👨‍💻 All of my projects are available at [**MyPortfolio**](https://portfolio-git-main-akanshas-projects-76a6fd7b.vercel.app/)
 
-- 💬 Ask me about **ReactJS , Java , Tailwind CSS,Node.js, Express, MongoDB, Socket.io,Data Structures & Algorithms**
+- 💬 Feel free to reach out if you'd like to discuss **ReactJS, Java, Tailwind CSS, Node.js, Express, MongoDB, Socket.io, or Data Structures & Algorithms.**
 
-- 📫 How to reach me **akansha14092002@gmail.com**
+- 📫 You can contact me at **akansha14092002@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vR7YOAMarAGFw99oVwJwtkLFVlJQrV9e2VSAAi5vyo9c6fA6SmYasor9NJdaRYafHFgO3OKRqoUqqg9/pub](https://docs.google.com/document/d/e/2PACX-1vR7YOAMarAGFw99oVwJwtkLFVlJQrV9e2VSAAi5vyo9c6fA6SmYasor9NJdaRYafHFgO3OKRqoUqqg9/pub)
+  
+- 📄 Learn more about my experiences in [my resume](https://docs.google.com/document/d/e/2PACX-1vR7YOAMarAGFw99oVwJwtkLFVlJQrV9e2VSAAi5vyo9c6fA6SmYasor9NJdaRYafHFgO3OKRqoUqqg9/pub).
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
