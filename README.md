@@ -4,7 +4,11 @@
 <h3 align="center">A B.Tech-CSE undergraduate and a passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img align="center" src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" alt="Hello GIF" width="300px" />
+  <img align="center" src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" alt="Hello GIF" width="300px" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20354bce-0a30-4e50-bf2f-a0d3e6293512" alt="Image" width="80%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);"/>
 </p>
 
 ---
@@ -111,11 +115,17 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   </a>
 </p>
 
@@ -130,4 +140,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akansha1409&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/akansha_1409?theme=dark&font=source_code_pro&extension=null" alt="LeetCode" />
+</p>
+
 
