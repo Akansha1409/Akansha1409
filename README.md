@@ -7,10 +7,6 @@
   <img align="center" src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" alt="Hello GIF" width="300px" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/20354bce-0a30-4e50-bf2f-a0d3e6293512" alt="Image" width="80%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);"/>
-</p>
-
 ---
 
 ### 🔭 Current Focus
