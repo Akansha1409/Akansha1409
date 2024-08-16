@@ -3,9 +3,6 @@
 <h1 align="center">Greetings, everyone 👋 I'm Akansha</h1>
 <h3 align="center">A B.Tech-CSE undergraduate and a passionate Full Stack Developer</h3>
 
-<p align="center">
-  <img align="center" src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" alt="Hello GIF" width="300px" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);" />
-</p>
 
 ---
 
@@ -26,9 +23,7 @@
 - 📫 You can contact me at **akansha14092002@gmail.com**.
 - 📄 Learn more about my experiences in [**my resume**](https://docs.google.com/document/d/e/2PACX-1vR7YOAMarAGFw99oVwJwtkLFVlJQrV9e2VSAAi5vyo9c6fA6SmYasor9NJdaRYafHFgO3OKRqoUqqg9/pub).
 
----
 
-### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/akansha-gautam-b29a19254" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
