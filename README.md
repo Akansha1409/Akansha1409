@@ -21,7 +21,7 @@
 ### 💬 Let's Connect
 - Feel free to reach out if you'd like to discuss **ReactJS, Java, Tailwind CSS, Node.js, Express, MongoDB, Socket.io,** or **Data Structures & Algorithms**.
 - 📫 You can contact me at **akansha14092002@gmail.com**.
-- 📄 Learn more about my experiences in [**my resume**](https://docs.google.com/document/d/e/2PACX-1vR7YOAMarAGFw99oVwJwtkLFVlJQrV9e2VSAAi5vyo9c6fA6SmYasor9NJdaRYafHFgO3OKRqoUqqg9/pub).
+- 📄 Learn more about my experiences in [**my resume**](https://docs.google.com/document/d/1FBj15AIOInnSkiFjMz06lt1XqS10tgIUEOr39RSJx_k/edit?usp=sharing).
 
 
 <p align="center">
