@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 Current Focus
-- Currently working on various **MERN stack projects** to deepen my expertise.
+- Currently working on various **Full stack projects** to deepen my expertise.
 - Learning backend technologies like **Socket.io, Spring Boot**, and more!
 - Actively seeking **real-world opportunities** to apply my skills and continue learning.
 
