@@ -13,15 +13,9 @@
 
 ---
 
-### 👨‍💻 Portfolio
-- All of my projects are available at [**My Portfolio**](https://portfolio-git-main-akanshas-projects-76a6fd7b.vercel.app/).
-
----
-
 ### 💬 Let's Connect
 - Feel free to reach out if you'd like to discuss **ReactJS, Java, Tailwind CSS, Node.js, Express, MongoDB, Socket.io,** or **Data Structures & Algorithms**.
 - 📫 You can contact me at **akansha14092002@gmail.com**.
-- 📄 Learn more about my experiences in [**my resume**](https://docs.google.com/document/d/1FBj15AIOInnSkiFjMz06lt1XqS10tgIUEOr39RSJx_k/edit?usp=sharing).
 
 
 <p align="center">
