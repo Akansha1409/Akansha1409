@@ -1,8 +1,8 @@
-![Header Image](https://github.com/user-attachments/assets/d99b6c2a-9869-4bc8-bcd6-6ce8a9bb60ee)
+<!-- ![Header Image](https://github.com/user-attachments/assets/d99b6c2a-9869-4bc8-bcd6-6ce8a9bb60ee)
 
 <h1 align="center">Greetings, everyone 👋 I'm Akansha</h1>
-<h3 align="center">A B.Tech-CSE undergraduate and a passionate Full Stack Developer</h3>
-
+<!-- <h3 align="center">A B.Tech-CSE undergraduate and a passionate Full Stack Developer</h3>
+ -->
 
 ---
 
@@ -122,7 +122,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha1409&" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+<p align="center"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akansha1409&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
