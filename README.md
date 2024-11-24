@@ -1,4 +1,4 @@
-<!-- ![Header Image](https://github.com/user-attachments/assets/d99b6c2a-9869-4bc8-bcd6-6ce8a9bb60ee)
+ ![Header Image](https://github.com/user-attachments/assets/d99b6c2a-9869-4bc8-bcd6-6ce8a9bb60ee)
 
 <h1 align="center">Greetings, everyone 👋 I'm Akansha</h1>
  <h3 align="center">A B.Tech-CSE undergraduate and a passionate Full Stack Developer</h3>
