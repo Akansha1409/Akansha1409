@@ -128,7 +128,5 @@
 
 <p align="center">
   <img src="https://leetcode.card.workers.dev/akansha_1409?theme=dark&font=source_code_pro&extension=null" alt="LeetCode" />
- https://leetcard.jacoblin.cool/Akansha_1409?ext=heatmap&
 </p>
-
-
+<p><img align="center" src="https://leetcard.jacoblin.cool/Akansha_1409?ext=heatmap&" alt="dikshajaiswal" /></p>
