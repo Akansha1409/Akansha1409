@@ -118,8 +118,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=akansha1409&show_icons=true&locale=en" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha1409&" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akansha1409&show_icons=true&locale=en" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha1409&" alt="GitHub Streak Stats" /> -->
 </p>
 
 <p align="center"> 
