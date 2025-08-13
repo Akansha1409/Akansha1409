@@ -1,5 +1,5 @@
  ![Header Image](https://github.com/user-attachments/assets/d99b6c2a-9869-4bc8-bcd6-6ce8a9bb60ee)
- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Akansha1409)
+ 
 <h1 align="center">Greetings, everyone 👋 I'm Akansha</h1>
  <h3 align="center">A B.Tech-CSE undergraduate and a passionate Full Stack Developer</h3>
  
@@ -16,6 +16,7 @@
 ### 💬 Let's Connect
 - Feel free to reach out if you'd like to discuss **ReactJS, Java, Tailwind CSS, Node.js, Express, MongoDB, Socket.io,** or **Data Structures & Algorithms**.
 - 📫 You can contact me at **akansha14092002@gmail.com**.
+   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Akansha1409)
 
 
 <p align="center">
