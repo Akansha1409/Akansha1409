@@ -125,5 +125,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akansha1409&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
+
+
+ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Akansha1409)
  <img src="https://leetcard.jacoblin.cool/Akansha_1409?ext=heatmap&" alt="akansha" />
 </p>
