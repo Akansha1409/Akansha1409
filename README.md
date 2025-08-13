@@ -16,7 +16,7 @@
 ### 💬 Let's Connect
 - Feel free to reach out if you'd like to discuss **ReactJS, Java, Tailwind CSS, Node.js, Express, MongoDB, Socket.io,** or **Data Structures & Algorithms**.
 - 📫 You can contact me at **akansha14092002@gmail.com**.
-   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Akansha1409)
+
 
 
 <p align="center">
@@ -115,7 +115,7 @@
 </p>
 
 ---
-
+   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Akansha1409)
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akansha1409&show_icons=true&locale=en" alt="GitHub Stats" />
